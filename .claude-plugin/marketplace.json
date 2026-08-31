@@ -1,0 +1,11 @@
+{
+  "name": "retroloop",
+  "owner": { "name": "Haider Hameed" },
+  "plugins": [
+    {
+      "name": "retroloop",
+      "source": { "source": "github", "repo": "retroloop/retroloop" },
+      "description": "Turns the frictions from your AI sessions into permanent fixes, built into a personalization plugin that exists just for you."
+    }
+  ]
+}
