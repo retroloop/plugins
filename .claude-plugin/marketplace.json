@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "retroloop",
-      "source": { "source": "github", "repo": "retroloop/retroloop" },
+      "source": { "source": "url", "url": "https://github.com/retroloop/retroloop.git" },
       "description": "Turns the frictions from your AI sessions into permanent fixes, built into a personalization plugin that exists just for you."
     }
   ]
